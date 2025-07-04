@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://uin-alauddin.ac.id/themes//images/favicon.png" width="100" alt="Logo UIN Alauddin">
 </p>
-<h3 align="center">Fakultas Sains dan Teknologi <br> UIN Alauddin Makassar</h3>
+<h3 align="center">Fakultas Sains dan Teknologi <br> Universitas Hasanuddin</h3>
 
 ---
 
